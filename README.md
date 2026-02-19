@@ -2,7 +2,7 @@
 
 My name is Keegan and I'm interested in all things web development and automation!
 
-- 🔭 I’m currently working on a number of personal projects which span data science, automation, and web development!
+- 🔭 I’m currently working on a number of projects which span data science, automation, and web development!
 
 <!--
 **Keegan-George/keegan-george** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
